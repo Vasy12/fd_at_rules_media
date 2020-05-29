@@ -5,3 +5,11 @@
     font-size: 60px;
     font-family: "Open Sans", sans-serif;
 }
+
+
+@media (width: 600px) {
+    .text {
+        color: green;
+        text-decoration: underline;
+    }
+}
