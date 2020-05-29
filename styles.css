@@ -1,7 +1,5 @@
 @import "./assets/css/reset.css";
 @import "./assets/css/fonts.css";
-@import "assets/css/print.css" print;
-@import "assets/css/screen.css" screen;
 
 .text {
     font-size: 60px;
