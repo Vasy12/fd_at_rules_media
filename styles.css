@@ -1,2 +1,34 @@
 @import "./assets/css/reset.css";
 @import "./assets/css/fonts.css";
+
+
+h1 {
+    font-size: 60px;
+}
+
+.text {
+    font-family: "Open Sans", sans-serif;
+    color: black;
+}
+
+/*@media all {
+
+}*/
+
+@media screen {
+    .text {
+        color: green;
+    }
+}
+
+@media print {
+    .text {
+        color: red;
+    }
+}
+
+/*@media speech {
+    .text {
+        color: initial;
+    }
+}*/
